@@ -1,1 +1,1 @@
-FROM openjdk:11-jdk-slim
+FROM node:14.19.1
