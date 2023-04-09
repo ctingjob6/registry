@@ -1,1 +1,1 @@
-FROM nginx
+FROM nacos/nacos-server
