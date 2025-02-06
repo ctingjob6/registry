@@ -1,1 +1,1 @@
-FROM nacos/nacos-server:latest
+FROM container-registry.oracle.com/database/free:latest
