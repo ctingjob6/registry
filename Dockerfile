@@ -1,1 +1,1 @@
-FROM container-registry.oracle.com/database/free:latest
+FROM rabbitmq:3-management
