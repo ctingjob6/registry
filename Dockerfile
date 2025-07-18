@@ -1,1 +1,1 @@
-FROM rancher/mirrored-cluster-api-controller:v1.9.5
+FROM rancher/fleet-agent:v0.12.4
