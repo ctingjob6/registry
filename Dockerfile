@@ -1,1 +1,1 @@
-FROM rancher/shell:v0.4.1
+FROM rancher/rancher-webhook:v0.7.3
