@@ -1,1 +1,1 @@
-FROM rancher/fleet-agent:v0.12.4
+FROM rancher/kubectl:v1.32.2
