@@ -1,1 +1,1 @@
-FROM rabbitmq:3-management
+FROM rancher/rancher:v2.11.3
