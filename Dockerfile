@@ -1,1 +1,1 @@
-FROM node:24.4.1-alpine
+FROM rancher/rancher-agent:v2.11.3
